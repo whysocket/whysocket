@@ -1,10 +1,10 @@
-# Surviving .NET: One Commit at a Time (Side Hustles Included)
+# Ctrl+C, Ctrl+V, and Other Essential Skills
 
 Hey there! I'm a .NET coder from Portugal. Been at it since 2019, trying to make computers do cool stuff without crashing... too much.
 
 When I'm not coding for my day job, I'm usually busy with my side hustle, [xceltutors](https://github.com/xceltutors). It's a startup thing, fueled by questionable decisions and copious amounts of caffeine.
 
-### 🐍 My Code History (It's a bit wild)
+## 🐍 My Code History (It's a bit wild)
 <p align="center">
   <img src="https://raw.githubusercontent.com/hashproton/hashproton/output/snake.svg" alt="My code history, probably a tangled mess" />
 </p>
