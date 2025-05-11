@@ -1,12 +1,16 @@
-# Ctrl + Alt + Defeat: Where Bugs Come to Die
+# Surviving .NET: One Commit at a Time (Side Hustles Included)
 
-I'm a passionate .NET Developer from Portugal. Since 2019, I've been dedicated to building robust and scalable applications.
+Hey there! I'm a .NET coder from Portugal. Been at it since 2019, trying to make computers do cool stuff without crashing... too much.
 
-Currently, I'm chasing unicorns with my startup [scalizup](https://github.com/scalizup). Wish me luck, mate!
+When I'm not coding for my day job, I'm usually busy with my side hustle, [xceltutors](https://github.com/xceltutors). It's a startup thing, fueled by questionable decisions and copious amounts of caffeine.
 
-### 🐍 Spare time history
+### 🐍 My Code History (It's a bit wild)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hashproton/hashproton/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/hashproton/hashproton/output/snake.svg" alt="My code history, probably a tangled mess" />
 </p>
 
-When I'm not coding, you can find me doing absolutely nothing productive, unless you count watching my code run flawlessly as productive. I also enjoy long walks... to the fridge.
+*Quick heads-up: That snake thing? No actual animals were messed with. My coding history, though? It's seen some rough days.*
+
+### When the IDE is off...
+
+Otherwise, I'm mastering the noble art of the nap or contemplating the mysteries of why my code worked yesterday but not today. I also enjoy long walks... you guessed it, to the fridge. Because you can't debug on an empty stomach.
